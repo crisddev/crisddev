@@ -1,6 +1,15 @@
 ## Hi, Im Crisddev 👋
 
-<!--#I'm currently working on a python package for quantitative trading that calculates popular technical indicators from stock or crypto price data.
+<!--
+### 👋 About Me
+- 💻 Self-taught software engineer  
+- 🔁 Full-stack developer | Python, C++, JS  
+- 🧠 Passionate about solving problems with code  
+- 📚 Constantly learning and improving  
+- 🤝 Love collaborating and helping others grow  
+- 🔭 I'm currently working on a python package for quantitative trading that calculates popular technical indicators from stock or crypto price data.
+
+    
 
 **crisddev/crisddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
